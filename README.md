@@ -1,18 +1,9 @@
-## Getting Started
+# Desafio de Sintaxe Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Simulando Uma Conta Bancária Através Do Terminal/Console**
 
-## Folder Structure
+Conforme desafio proposto, foi criado um projeto contaBanco que possui a classe `ContaTerminal` responsável por solicitar ao usuário, via terminal, a inserção das seguintes informações: Nome do Cliente, Número da Conta, Agência e Saldo. Ao final, a aplicação retorna uma mensagem para o usuário com as informações inseridas.
 
-The workspace contains two folders by default, where:
+### Amostra
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Exemplo de execução da classe contaTerminal](https://github.com/sarahrubia/contaBanco/assets/52300436/8f84db69-5695-4b13-9cc4-92b2b172c16b)
